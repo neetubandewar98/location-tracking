@@ -1,0 +1,7 @@
+{
+  "name": "location-track",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
